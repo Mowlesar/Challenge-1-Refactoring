@@ -6,7 +6,7 @@ Installation
 N/A
 
 Usage
-This site can be used to keep track of notes pertaining to any of the subjects listed therin. The site can also be used to determine a starting point among the topics via the Google Dev tools.
+N/A
 
 Credits
 N/A
